@@ -1,7 +1,9 @@
-## Hi there 👋
+## Olá somos a equipe: First Health Hack 👋
 
-Primeira logo: 
+Primeira logo:
+
 <img src="img.webp">
+by: <a href="https://github.com/evypersonal">@evypersonal</a>
 <!--
 
 **Here are some ideas to get you started:**
