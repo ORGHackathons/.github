@@ -1,12 +1,12 @@
 ## Olá somos a equipe: First Health Hack 👋
 
-Primeira e 2ª logos:
+Logo:
 
-<img src="img.webp"> <img src="fhh.webp" width="150px">
+<img src="fhh.webp" width="150px">
 
 by: <a href="https://github.com/evypersonal">@evypersonal</a>
 
-
+<!-- (primeira logo) <img src="img.webp">
 
 
 
