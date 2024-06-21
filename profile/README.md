@@ -1,10 +1,12 @@
-## Olá somos a equipe: First Health Hack 👋
+<h1 align="center">Olá somos a equipe: First Health Hack 👋 </h1>
 
-Logo:
+<p align="center">
+<img src="fhh.webp" width="250px">
+</p>
 
-<img src="fhh.webp" width="150px">
+<!-- by: <a href="https://github.com/evypersonal">@evypersonal</a>  -->
 
-by: <a href="https://github.com/evypersonal">@evypersonal</a>
+<p align="right">Team: <a href="https://github.com/Jhaysavi">@Jhaysavi</a>, <a href="https://github.com/baiacul">@baiacul</a> <a href="https://github.com/evypersonal">@evypersonal</a>, <a href="https://github.com/venelouis">@venelouis</a>, <a href="https://github.com/erickmoro">@erickmoro</a></p>
 
 # Fomos classificados!
 
