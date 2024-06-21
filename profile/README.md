@@ -6,6 +6,10 @@ Logo:
 
 by: <a href="https://github.com/evypersonal">@evypersonal</a>
 
+# Fomos classificados!
+
+<img src="classificados.png">
+
 <!-- (primeira logo) <img src="img.webp">
 
 
