@@ -8,7 +8,7 @@
 
 <p align="right">Team: <a href="https://github.com/Jhaysavi">@Jhaysavi</a>, <a href="https://github.com/baiacul">@baiacul</a> <a href="https://github.com/evypersonal">@evypersonal</a>, <a href="https://github.com/venelouis">@venelouis</a>, <a href="https://github.com/erickmoro">@erickmoro</a></p>
 
-<h1 align="center"> Fomos classificados!</h1>
+<h1 align="left"> Fomos classificados!</h1>
 <p align="center">
 <img src="classificados.png">
 </p>
