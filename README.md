@@ -1,9 +1,4 @@
-# Organização criada para o Hackathon Saúde 4.0 
+# Organização criada para Hackathons
 <p align="center">
 <img src="hackathon.png" width="60%">
 </p>
-
-- https://www.youtube.com/watch?v=hQJLltlxBbE
-- https://hackathon.docsolutionmed.com.br/
-
-

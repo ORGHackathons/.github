@@ -1,7 +1,7 @@
 <h1 align="center">ORGHackathons 👋 </h1>
 
 <p align="center">
-<img src="hackathon.png" width="250px">
+<img src="./hackathon.png" width="250px">
 </p>
 
 </p>
