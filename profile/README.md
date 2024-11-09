@@ -1,25 +1,10 @@
-<h1 align="center">Olá somos a equipe: First Health Hack 👋 </h1>
+<h1 align="center">ORGHackathons 👋 </h1>
 
 <p align="center">
-<img src="fhh.webp" width="250px">
+<img src="hackathon.png" width="250px">
 </p>
 
-<!-- by: <a href="https://github.com/evypersonal">@evypersonal</a>  -->
-
-<p align="right">Team: <a href="https://github.com/Jhaysavi">@Jhaysavi</a>, <a href="https://github.com/baiacul">@baiacul</a> <a href="https://github.com/evypersonal">@evypersonal</a>, <a href="https://github.com/venelouis">@venelouis</a>, <a href="https://github.com/erickmoro">@erickmoro</a></p>
-
-<h1 align="left"> Fomos classificados!</h1>
-<p align="center">
-<img src="classificados.png">
 </p>
-<!-- (primeira logo) <img src="img.webp">
-
-
-
-
-
-
-
 
 <!--
 
