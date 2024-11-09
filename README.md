@@ -1,4 +1,4 @@
 # Organização criada para Hackathons
 <p align="center">
-<img src="hackathon.png" width="60%">
+<img src="hackathons.png" width="60%">
 </p>
