@@ -1,4 +1,4 @@
-<h1 align="center">ORGHackathons 👋 </h1>
+<h1 align="center">👋 ORGHackathons </h1>
 
 <p align="center">
 <img src="hackathonia.jpg" width="500px">
